@@ -44,7 +44,7 @@ Repository ini merupakan tugas pada setiap pertemuan, berikut ini adalah tabel t
 
 |    Pertemuan   |                   Materi         |          Tugas Pada Setiap Repo        |
 | -------------- | -------------------------------- | -------------------------------------- |
-| Pertemuan ke 4 |      Virtual Control System      | [Repository Pert Ke 4](https://github.com/LatihanVCS) |
-| Pertemuan ke 6 | Tipe Data, Variable dan Operator | [Repository Pert Ke 6](https://github.com/ProjectPraktikum) |
-| Pertemuan ke 7 |    Kondisional dan Perulangan    | [Repository Pert Ke 7](https://github.com/labspy02) |
-| Pertemuan ke 7 |    Kondisional dan Perulangan    | [Repository Pert Ke 7](https://github.com/labspy03) |
+| Pertemuan ke 4 |      Virtual Control System      | [Repository Pert Ke 4](https://github.com/josefisto/LatihanVCS.git) |
+| Pertemuan ke 6 | Tipe Data, Variable dan Operator | [Repository Pert Ke 6](https://github.com/josefisto/ProjectPraktikum.git) |
+| Pertemuan ke 7 |    Kondisional dan Perulangan    | [Repository Pert Ke 7](https://github.com/josefisto/labspy02.git) |
+| Pertemuan ke 7 |    Kondisional dan Perulangan    | [Repository Pert Ke 7](https://github.com/josefisto/labspy03.git) |
